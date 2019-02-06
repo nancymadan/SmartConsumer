@@ -32,7 +32,7 @@ DEPENDENCIES:
   - YouTubePlayer
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  https://github.com/cocoapods/specs.git:
     - Alamofire
     - BarcodeScanner
     - DACircularProgress
@@ -64,4 +64,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 2001ea4ba76e77eaa1c5f109e76e198af15069d8
 
-COCOAPODS: 1.5.0
+COCOAPODS: 1.5.3
